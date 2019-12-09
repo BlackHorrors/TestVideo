@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b5a23e-6c55-47ce-8ca1-d356babd1a6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/id1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComponentClose.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/lucas.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +23,12 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="RDavydiuk &lt;romandaviduc@gmail.com&gt;" />
         <option value="https://github.com/BlackHorrors" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1Uk4xsgnWaQdas1OUeQ0bhgUUQi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,7 +106,7 @@
       <workItem from="1575884658562" duration="225000" />
       <workItem from="1575886941538" duration="335000" />
       <workItem from="1575887525263" duration="79000" />
-      <workItem from="1575887626041" duration="14569000" />
+      <workItem from="1575887626041" duration="14862000" />
     </task>
     <task id="LOCAL-00001" summary="first commit on test project !">
       <created>1575910624020</created>
@@ -117,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575910624020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit on test project !">
+      <created>1575912046742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575912046742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -173,10 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575887564804" />
-    <state x="573" y="134" key="CommitChangelistDialog2" timestamp="1575910856050">
+    <state x="573" y="134" key="CommitChangelistDialog2" timestamp="1575912045104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="573" y="134" key="CommitChangelistDialog2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910856050" />
+    <state x="573" y="134" key="CommitChangelistDialog2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575912045104" />
     <state width="949" height="218" key="GridCell.Tab.0.bottom" timestamp="1575910711747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
