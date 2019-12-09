@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b5a23e-6c55-47ce-8ca1-d356babd1a6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/id1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComponentClose.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/videos/lucas.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player/Player.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player/Player.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="https://github.com/BlackHorrors" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Uk4xsgnWaQdas1OUeQ0bhgUUQi" />
@@ -53,7 +52,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="ts.external.directory.path" value="C:\Users\rdavydiuk\WebstormProjects\untitled1\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -109,8 +108,16 @@
       <workItem from="1575884658562" duration="225000" />
       <workItem from="1575886941538" duration="335000" />
       <workItem from="1575887525263" duration="79000" />
-      <workItem from="1575887626041" duration="13176000" />
+      <workItem from="1575887626041" duration="14569000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit on test project !">
+      <created>1575910624020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575910624020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -152,34 +159,59 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit on test project !" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit on test project !" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Notifications" timestamp="1575910873220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910873220" />
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575887564804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575887564804" />
-    <state x="573" y="134" key="CommitChangelistDialog2" timestamp="1575910552454">
+    <state x="573" y="134" key="CommitChangelistDialog2" timestamp="1575910856050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="573" y="134" key="CommitChangelistDialog2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910552454" />
-    <state width="949" height="218" key="GridCell.Tab.0.bottom" timestamp="1575896662838">
+    <state x="573" y="134" key="CommitChangelistDialog2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910856050" />
+    <state width="949" height="218" key="GridCell.Tab.0.bottom" timestamp="1575910711747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575896662838" />
-    <state width="949" height="218" key="GridCell.Tab.0.center" timestamp="1575896662838">
+    <state width="949" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910711747" />
+    <state width="949" height="218" key="GridCell.Tab.0.center" timestamp="1575910711747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575896662838" />
-    <state width="949" height="218" key="GridCell.Tab.0.left" timestamp="1575896662837">
+    <state width="949" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910711747" />
+    <state width="949" height="218" key="GridCell.Tab.0.left" timestamp="1575910711747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575896662837" />
-    <state width="949" height="218" key="GridCell.Tab.0.right" timestamp="1575896662838">
+    <state width="949" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910711747" />
+    <state width="949" height="218" key="GridCell.Tab.0.right" timestamp="1575910711747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575896662838" />
+    <state width="949" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910711747" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1575911890947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575911890947" />
+    <state x="541" y="261" key="Vcs.Push.Dialog.v2" timestamp="1575910693056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910693056" />
+    <state x="762" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575910814581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575910814581" />
     <state x="639" y="263" width="642" height="514" key="find.popup" timestamp="1575909995590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="639" y="263" width="642" height="514" key="find.popup/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575909995590" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1575911778404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1440.502.1440.860@0.0.1920.1040" timestamp="1575911778404" />
   </component>
 </project>
